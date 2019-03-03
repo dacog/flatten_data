@@ -11,7 +11,7 @@ setup(
 	# Needed for dependencies
 	install_requires=[],
 	# *strongly* suggested for sharing
-	version='',
+	version='0.1',
 	# The license can be anything you like
 	license='MIT',
 	description='a way to flatten dictionaries and lists',
