@@ -9,7 +9,7 @@ setup(
 	# Needed to actually package something
 	packages=['flatten_data'],
 	# Needed for dependencies
-	install_requires=['collections.abc'],
+	install_requires=[],
 	# *strongly* suggested for sharing
 	version='',
 	# The license can be anything you like
