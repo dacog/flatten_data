@@ -11,7 +11,7 @@ setup(
 	# Needed for dependencies
 	install_requires=['copy','collections.abc'],
 	# *strongly* suggested for sharing
-	version='0.1',
+	version='',
 	# The license can be anything you like
 	license='MIT',
 	description='a way to flatten dictionaries and lists',
